@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CYCManager</string>
+    <string name="save">save</string>
+    <string name="vsave">save</string>
+    <string name="information">Information</string>
+    <string name="humanImageView">humanIv</string>
+    <string name="serverNotFound">Server Not Found T_T </string>
+    <string name="refresh">refresh</string>
+    <string name="cancel">cancel</string>
+    <string name="exit">exit</string>
+    <string name="viewimage">View Excited Images</string>
+    <string name="about">about</string>
+    <string name="snapshot">snapshot</string>
+    <string name="title_activity_control">Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="smoke">Warning: Smoke detected!</string>
+    <string name="nosmoke">No smoke detected!</string>
+    <string name="human">Warning: human body detected!</string>
+    <string name="nohuman">No human body...</string>
+    <string name="control">Control</string>
+    <string name="releasecontrol">Release Control</string>
+    <string name="lighton">Light is: ON</string>
+    <string name="lightoff">Light is: OFF</string>
+    <string name="time">2014-05-12</string>
+    <string name="ipsetting">Enter your server IP:</string>
+    <string name="setip">Change Server Ip</string>
+    <string name="ok">OK</string>
+
+</resources>

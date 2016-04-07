@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<deployments>
+  <deployment alt-context-root="" context-root="/homeworkServer" deployment-path="E:/AndroidPro/.metadata/.me_tcat7/webapps/homeworkServer" project-name="homeworkWebServer" server-id="myeclipseTomcatServer7" state="ERROR" status="Project modules hierarchy is inconsistent with deployment" type="WEB"/>
+</deployments>

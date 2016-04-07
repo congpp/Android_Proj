@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Exam20111003809/res/layout/activity_activity809.xml&apos; to &apos;activity809.xml&apos;" description="Rename resource &apos;activity_activity809.xml&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/layout/activity_activity809.xml" name="activity809.xml" stamp="1402965899515" updateReferences="true"/>
+</session>

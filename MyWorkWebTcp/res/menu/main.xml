@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/control"
+        android:title="@string/control"/>
+    <item
+        android:id="@+id/setip"
+        android:title="@string/setip" 
+        />
+    <item
+        android:id="@+id/mainExit"
+        android:title="@string/exit">
+    </item>
+
+</menu>

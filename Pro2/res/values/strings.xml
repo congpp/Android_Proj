@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CG远程监控系统</string>
+    <string name="action_settings">Settings</string>
+    <string name="more">更多</string>
+    <string name="currentTmp">当前温度：</string>
+    <string name="abnormal">异常状况：</string>
+    <string name="currentEnv">当前环境：</string>
+    <string name="nullStr">Null</string>
+    <string-array name="list">
+        <item >温度监测</item>
+        <item>烟雾监测</item>
+        <item>人体红外监测</item>
+        <item>视频监测</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CYCManager</string>
+    <string name="control">control</string>
+    <string name="save">save</string>
+    <string name="information">Information</string>
+    <string name="humanImageView">humanIv</string>
+    <string name="serverNotFound">Server Not Found T_T </string>
+    <string name="refresh">refresh</string>
+    <string name="exit">exit</string>
+    <string name="viewimage">View Excited Images</string>
+    <string name="about">about</string>
+    <string name="snapshot">snapshot</string>
+    <string name="title_activity_control">Control</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

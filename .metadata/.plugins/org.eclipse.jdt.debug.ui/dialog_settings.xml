@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="252" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth0"/>
+	<item value="401" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1"/>
+	<item value="1" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn"/>
+	<item value="73" key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2"/>
+	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
+		<item value="true" key="ShowStatusLine"/>
+		<item value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0D;&#x0A;&lt;History&gt;&#x0D;&#x0A;&lt;historyRootNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=homeworkWebServer/D:\/Android\/MyEclipseProfessional\/plugins\/com.genuitec.eclipse.j2eedt.core_11.0.2.me201308131645\/data\/libraryset\/EE_6\/weld-osgi-bundle.jar&amp;lt;javassist.tools.rmi(AppletServer.class[AppletServer&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SceenReceiver/D:\/Android\/MyEclipseProfessional\/plugins\/com.ibm.icu_4.4.2.v20110823.jar&amp;lt;com.ibm.icu.text(BreakDictionary.class[BreakDictionary&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SceenReceiver/D:\/Android\/MyEclipseProfessional\/plugins\/org.eclipse.osgi_3.8.2.v20130124-134944.jar&amp;lt;org.eclipse.core.runtime.adaptor(EclipseStarter.class[EclipseStarter&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SceenReceiver/D:\/Android\/MyEclipseProfessional\/plugins\/com.ibm.icu_4.4.2.v20110823.jar&amp;lt;com.ibm.icu.impl.duration.impl(Utils.class[Utils&lt;/infoNode&gt;&#x0D;&#x0A;&lt;infoNode&gt;=SceenReceiver/src&amp;lt;{ScreenReceiver.java[ScreenReceiver&lt;/infoNode&gt;&#x0D;&#x0A;&lt;/historyRootNode&gt;&#x0D;&#x0A;&lt;/History&gt;" key="History"/>
+		<section name="DialogBoundsSettings">
+			<item value="600" key="DIALOG_WIDTH"/>
+			<item value="171" key="DIALOG_Y_ORIGIN"/>
+			<item value="344" key="DIALOG_X_ORIGIN"/>
+			<item value="500" key="DIALOG_HEIGHT"/>
+			<item value="1|Tahoma|8.25|0|WINDOWS|1|-11|0|0|0|400|0|0|0|1|0|0|0|0|Tahoma" key="DIALOG_FONT_NAME"/>
+		</section>
+	</section>
+</section>

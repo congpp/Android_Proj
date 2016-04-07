@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename field &apos;btn&apos; in &apos;com.cyc.button.R.id&apos; to &apos;btn1&apos;&#x0D;&#x0A;- Original project: &apos;Button&apos;&#x0D;&#x0A;- Original element: &apos;com.cyc.button.R.id.btn&apos;&#x0D;&#x0A;- Renamed element: &apos;com.cyc.button.R.id.btn1&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" delegate="false" deprecate="true" description="Rename field &apos;btn&apos;" flags="589830" getter="false" id="org.eclipse.jdt.ui.rename.field" input="/gen&lt;com.cyc.button{R.java[R[id^btn" name="btn1" references="true" setter="false" stamp="1394285645703" textual="false" version="1.0"/>
+</session>

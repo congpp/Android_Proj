@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;MyService.java&apos; to &apos;ScreenSender/src/com.cyc.screensender&apos;&#x0D;&#x0A;- Original project: &apos;Service&apos;&#x0D;&#x0A;- Destination element: &apos;ScreenSender/src/com.cyc.screensender&apos;&#x0D;&#x0A;- Original element: &apos;com.cyc.service.MyService.java&apos;" description="Copy compilation unit" destination="=ScreenSender/src&lt;com.cyc.screensender" element1="/src&lt;com.cyc.service{MyService.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1400553555921" units="1" version="1.0"/>
+</session>

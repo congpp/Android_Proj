@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EmbeddedSystem</string>
+    <string name="exit">退出</string>
+    <string name="hello_world">IP</string>
+    <string name="title_activity_welcome">WelcomeActivity</string>
+    <string name="input_ip">请输入服务器IP：</string>
+    <string name="ip">192.168.121.1</string>
+
+</resources>

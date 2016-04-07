@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:tns="http://service.gdufs.org/" targetNamespace="http://service.gdufs.org/" version="1.0">
+
+  <xs:element name="findStudentById" type="tns:findStudentById"/>
+
+  <xs:element name="findStudentByIdResponse" type="tns:findStudentByIdResponse"/>
+
+  <xs:complexType name="findStudentById">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="arg0" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="findStudentByIdResponse">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="return" type="tns:student"/>
+    </xs:sequence>
+  </xs:complexType>
+
+  <xs:complexType name="student">
+    <xs:sequence>
+      <xs:element minOccurs="0" name="className" type="xs:string"/>
+      <xs:element minOccurs="0" name="courseId" type="xs:string"/>
+      <xs:element minOccurs="0" name="email" type="xs:string"/>
+      <xs:element minOccurs="0" name="ip" type="xs:string"/>
+      <xs:element minOccurs="0" name="latitude" type="xs:int"/>
+      <xs:element minOccurs="0" name="longitude" type="xs:int"/>
+      <xs:element minOccurs="0" name="password" type="xs:string"/>
+      <xs:element minOccurs="0" name="photo" type="xs:string"/>
+      <xs:element minOccurs="0" name="school" type="xs:string"/>
+      <xs:element minOccurs="0" name="sex" type="xs:string"/>
+      <xs:element minOccurs="0" name="studentId" type="xs:string"/>
+      <xs:element minOccurs="0" name="studentName" type="xs:string"/>
+      <xs:element minOccurs="0" name="teacherId" type="xs:string"/>
+      <xs:element minOccurs="0" name="telephone" type="xs:string"/>
+    </xs:sequence>
+  </xs:complexType>
+</xs:schema>

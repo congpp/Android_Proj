@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;tmpString&apos; in &apos;com.cyc.mywork.MainActivity.analyzeListData(...)&apos; to &apos;tmp&apos;&#x0D;&#x0A;- Original project: &apos;MyWorkWeb&apos;&#x0D;&#x0A;- Original element: &apos;com.cyc.mywork.MainActivity.analyzeListData(String).tmpString&apos;&#x0D;&#x0A;- Renamed element: &apos;tmpString&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;tmpString&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.cyc.mywork{MainActivity.java[MainActivity~analyzeListData~QString;@tmpString!13384!13446!13391!13399!QString;!0!false" name="tmp" references="true" stamp="1396332946750" version="1.0"/>
+</session>
